@@ -55,8 +55,4 @@ yarn add react-webcam
 yarn add @tensorflow-models/posenet
 
 
-📖 Recursos adicionales
-- Documentación de PoseNet
-- Guía de TensorFlow.js
-
 
