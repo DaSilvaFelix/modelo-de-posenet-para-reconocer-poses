@@ -11,12 +11,10 @@ Asegúrate de tener `Node.js` y `yarn` instalados en tu sistema. Luego, sigue es
 
 ### 1️⃣ Clona el repositorio
 ```sh
-git clone <URL_DEL_REPO>
+git clone https://github.com/DaSilvaFelix/modelo-de-posenet-para-reconocer-poses.git
 
-
-Reemplaza <URL_DEL_REPO> con la URL de tu repositorio.
 2️⃣ Navega al directorio del proyecto
-cd nombre-del-proyecto
+cd modelo-de-posenet-para-reconocer-poses
 
 
 3️⃣ Instala las dependencias
@@ -31,7 +29,7 @@ yarn dev
 
 Esto iniciará el servidor de desarrollo y abrirá la aplicación en tu navegador en http://localhost:5173/.
 📦 Estructura del proyecto
-📂 nombre-del-proyecto
+📂 modelo-de-posenet-para-reconocer-poses
  ├── 📂 src
  │    ├── 📜 App.js          # Componente principal
  │    ├── 📜 utils.js        # Funciones auxiliares de dibujo
